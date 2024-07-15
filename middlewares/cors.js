@@ -4,6 +4,8 @@ const allowedCors = [
   "http://localhost:3000",
   "https://practicum.yandex.ru",
   "https://students-projects.ru",
+  "https://busfy.ru:9000",
+  "https://busfy.ru"
 ];
 cors = (req, res, next) => {
   const { origin } = req.headers;

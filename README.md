@@ -1,7 +1,11 @@
 # Pindie Backend
 
-Ссылка на репозиторий с фронтендом: https://github.com/MemsHC/front
+Ссылка на репозиторий с фронтендом: https://github.com/Aglion/pindie_front
 
-Ссылка на домен фронтенда: https://pindie1frontend.nomoredomainswork.ru/
+Ссылка на домен фронтенда: https://busfy.ru/
 
-IP-адрес: 158.160.157.185
+Инструкция к запуску проекта:
+
+1) npm i
+
+2) node app.js
