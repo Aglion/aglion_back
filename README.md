@@ -9,3 +9,9 @@
 1) npm i
 
 2) node app.js
+
+Учетная запись для входа:
+
+Email: aski@example.com
+
+Пароль: ilovehtml
